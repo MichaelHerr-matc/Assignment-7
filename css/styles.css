@@ -1,0 +1,25 @@
+body {
+  font-family: Mina, sans-serif;
+  color: black;
+  text-align: left;
+  border: 2px solid black;
+  background-color: lightgray;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+#active-list {
+  color: red;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+#completed-list {
+  color: green;
+  text-align: left;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin: 10px 0;
+}
